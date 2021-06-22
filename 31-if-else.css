@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    background-color: cadetblue ;
+    margin-top: 5%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+input{
+    background-color: orange;
+    font-weight: bolder;
+    border-radius: 15px;
+    height: 30px;
+    text-align: center;
+
+}
+p{
+    font-weight: bolder;
+}
+button{
+    background-color: chocolate;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+}
+
+#result{
+    font-size: 1.2em;
+    border: 3px solid black;
+    border-radius: 15px;
+    background-color: khaki;
+}
+h1{
+    text-align: center;
+    color: black;
+    
+}
